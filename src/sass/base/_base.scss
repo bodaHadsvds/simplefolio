@@ -4,6 +4,10 @@ html {
   &.sr .load-hidden {
     visibility: hidden;
   }
+  .dark-mode {
+    background-color: black;
+    color: white;
+  }
 }
 
 body {
