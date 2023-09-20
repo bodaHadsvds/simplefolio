@@ -1,0 +1,16 @@
+html {
+  font-size: 62.5%;
+
+  &.sr .load-hidden {
+    visibility: hidden;
+  }
+  .dark-mode {
+    background-color: black;
+    color: white;
+  }
+}
+
+body {
+  font-family: "Montserrat", sans-serif;
+  text-align: center;
+}
